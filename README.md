@@ -1,4 +1,4 @@
-# EntregaProyecto
+# EntregaProyecto Nº 4 FDFD WAVE GAUSSIAN
 Aquí se encuentra todo la información y programas del proyecto
 
 El compedio de código que se muestran, se ha hecho para poder simular campos radiados con
